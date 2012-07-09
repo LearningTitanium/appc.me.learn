@@ -1,0 +1,95 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #d9d9d9;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#logo {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    right: 430px;
+    color: #333;
+}
+
+#logo h1 {
+    display: inline-block;
+    margin: 0;
+    font-size: 36px;
+}
+
+#logo img {
+    vertical-align: top;
+}
+
+#actions {
+    position: absolute;
+    top: 10px;
+    right: 380px;
+    text-align: center;
+}
+
+#hint {
+    font-size: 12px;
+    color: #333;
+}
+
+#code {
+    position: absolute;
+    top: 65px;
+    right: 360px;
+    bottom: 0;
+    left: 0;
+    min-height: 487px;
+}
+
+#author {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 360px;
+    height: 60;
+    text-align: center;
+}
+
+#author a {
+    font-weight: bold;
+    color: #000;
+    text-decoration: underline;
+}
+
+#author a:hover {
+    color: #333;
+}
+
+#phone {
+    position: absolute;
+    top: -60px;
+    right: 0;
+    bottom: 0;
+    width: 367px;
+    background: url('../img/phone.png') no-repeat;
+    color: #fff;
+    line-height: 740px;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    min-height: 612px;
+}
+
+#app {
+    position: absolute;
+    top: 72px;
+    right: 16px;
+    width: 320px;
+    height: 480px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}

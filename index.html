@@ -1,0 +1,41 @@
+<html>
+<head>
+	<link rel="stylesheet" href="css/main.css">
+	<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery.hotkeys.js"></script>
+	<script type="text/javascript" src="js/webtoolkit.base64.js"></script>
+	<script type="text/javascript" src="ace/ace.js" charset="utf-8"></script>
+	<script type="text/javascript" src="ace/mode-javascript.js" charset="utf-8"></script>
+	<title>Learning Titanium</title>
+</head>
+<body>
+<div id="logo">
+	<img src="img/logo.png" width="55" height="44" alt="Appcelerator"/>
+
+	<h1>Learning Titanium</h1>
+</div>
+
+<div id="actions">
+	&nbsp;&nbsp;&nbsp;<input id="save" type="button" value="Save (Ctrl+S)"/>
+	<input id="run" type="button" value="Run (Ctrl+R)"/>
+	<br/>
+	<input id="previous" type="button" value="Previous (Ctrl+Left)"/>
+	<input id="next" type="button" value="Next (Ctrl+Right)"/>
+</div>
+
+<div id="code"></div>
+
+<div id="phone">
+	Loading, please wait...
+</div>
+
+<div id="author">
+	Created by <a href="https://twitter.com/dawsontoth" target="_blank">Dawson Toth</a><br/>
+	Powered by <a href="http://www.appcelerator.com/" target="_blank">Appcelerator Titanium</a>
+</div>
+
+<iframe id="app" src="app/index.html" frameborder="0"></iframe>
+
+<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>

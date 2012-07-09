@@ -1,0 +1,177 @@
+ts	1341605506000
+.idea
+	.name	9
+	Resources.iml	283
+	encodings.xml	166
+	inspectionProfiles
+		Project_Default.xml	591
+		profiles_settings.xml	235
+	misc.xml	1014
+	modules.xml	272
+	scopes
+		scope_settings.xml	139
+	vcs.xml	166
+	workspace.xml	11168
+app.js	179
+appicon.png	11039
+apple-touch-icon-114x114-precomposed.png	10750
+apple-touch-icon-57x57-precomposed.png	5520
+apple-touch-icon-72x72-precomposed.png	6961
+apple-touch-icon-precomposed.png	5520
+favicon.ico	1001
+themes
+	common.css	7232
+	default
+		Facebook
+			login.png	6326
+			loginPressed.png	6352
+			loginWide.png	9766
+			loginWidePressed.png	9773
+			logout.png	5980
+			logoutPressed.png	6049
+		Map
+			location.png	870
+			marker_green.png	1649
+			marker_purple.png	1666
+			marker_red.png	1541
+		UI
+			TableViewRow
+				check.png	1789
+				child.png	1565
+				detail.png	1761
+				detailActive.png	1780
+		default.css	634
+titanium
+	Ti
+		API.js	1276
+		Accelerometer.js	833
+		Analytics.js	785
+		App
+			Properties.js	1852
+		App.js	324
+		Blob.js	1043
+		BlobStream.js	119
+		Buffer.js	2564
+		BufferStream.js	121
+		Codec.js	1853
+		Facebook
+			LoginButton.js	1925
+		Facebook.js	5005
+		Filesystem
+			File.js	281
+			FileStream.js	130
+		Filesystem.js	1976
+		Geolocation.js	5311
+		Gesture.js	2355
+		IOStream.js	1119
+		Locale.js	2276
+		Map
+			Annotation.js	1010
+			View.js	272
+		Map.js	551
+		Media
+			AudioPlayer.js	107
+			Sound.js	101
+			VideoPlayer.js	7909
+		Media.js	1325
+		Network
+			HTTPClient.js	4890
+		Network.js	1890
+		Platform
+			DisplayCaps.js	529
+		Platform.js	2981
+		UI
+			2DMatrix.js	2230
+			ActivityIndicator.js	3891
+			ActivityIndicatorStyle.js	177
+			AlertDialog.js	2690
+			Animation.js	619
+			Button.js	3984
+			Clipboard.js	1156
+			EmailDialog.js	1104
+			ImageView.js	6401
+			Label.js	4188
+			MobileWeb
+				NavigationGroup.js	4777
+				TableViewSeparatorStyle.js	171
+			MobileWeb.js	263
+			OptionDialog.js	2559
+			Picker.js	6888
+			PickerColumn.js	7695
+			PickerRow.js	434
+			ProgressBar.js	2488
+			ScrollView.js	4316
+			ScrollableView.js	11503
+			Slider.js	3293
+			Switch.js	4131
+			Tab.js	2957
+			TabGroup.js	8052
+			TableView.js	10550
+			TableViewRow.js	3838
+			TableViewSection.js	5239
+			TextArea.js	964
+			TextField.js	2964
+			View.js	2062
+			WebView.js	5625
+			Window.js	1758
+		UI.js	11352
+		Utils.js	9691
+		XML.js	1436
+		Yahoo.js	652
+		_
+			Evented.js	1510
+			Filesystem
+				Local.js	13748
+			Gestures
+				DoubleTap.js	2017
+				Dragging.js	2639
+				GestureRecognizer.js	1601
+				LongPress.js	1808
+				Pinch.js	3677
+				SingleTap.js	1675
+				Swipe.js	2707
+				TouchCancel.js	569
+				TouchEnd.js	591
+				TouchMove.js	597
+				TouchStart.js	597
+				TwoFingerTap.js	4939
+			Layouts
+				Base.js	2776
+				Composite.js	16984
+				ConstrainingHorizontal.js	16615
+				ConstrainingVertical.js	16626
+				Horizontal.js	14756
+				Vertical.js	13959
+			Layouts.js	506
+			Map
+				Google.js	13577
+			Promise.js	2500
+			UI
+				Element.js	27001
+				FontWidget.js	2304
+				KineticScrollView.js	15759
+				SuperView.js	1299
+				TextBox.js	3227
+				WebViewBridge.js	448
+				Widget.js	201
+				blank.html	39
+			analytics.js	4439
+			browser.js	187
+			css.js	719
+			declare.js	7506
+			dom.js	3781
+			encoding.js	1241
+			event.js	349
+			has.js	1127
+			image.js	317
+			include.js	1172
+			lang.js	5735
+			ready.js	1433
+			string.js	10228
+			style.js	1604
+			text.js	731
+		_.js	1491
+	Ti.js	10886
+	package.json	675
+titanium.css	8049
+titanium.js	476450
